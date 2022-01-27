@@ -1,0 +1,28 @@
+body {
+    /* more on this crazy alphanumerical value in a minute! */
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+/* apply styles to <header> */
+header h1 {
+    padding: 20px 35px;
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138; 
+    margin: 0;
+}
+
+header a {
+    color: #fce138;
+}
+
+
+header {
+    background-color: #39a6b2;
+    padding: 20px 35px;
+}
+
+header nav a {
+    margin-left: 25px; 
+}
